@@ -11,7 +11,7 @@
 
 ## Project pages:
 * Github: [https://github.com/bickerdyke/CPAP-Wallmount]
-* Thingiverse: [https://www.thingiverse.com/thing:tba]
+* Thingiverse: [https://www.thingiverse.com/thing:4786164]
 
 ## Version history
 
